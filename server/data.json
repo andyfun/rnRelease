@@ -1,0 +1,35 @@
+{"code":0,
+  "data":{
+   "girls":[
+      {
+        "id":1,"name":"grandma_recipe_ramen","img":"https://2345games.top/publicRes/games/grandma_recipe_ramen.jpg",
+        "url":"https://zh.y8.com/games/grandma_recipe_ramen","desc":"grandma"
+      },
+      {
+        "id":2,"name":"rabbit_jigsaw_puzzles","img":"https://2345games.top/publicRes/games/rabbit_jigsaw_puzzles.gif",
+        "url":"https://zh.y8.com/games/rabbit_jigsaw_puzzles","desc":"rabbit_jigsaw_puzzles"
+      },
+      {
+        "id":3,"name":"princess_team_bohemian","img":"https://2345games.top/publicRes/games/princess_team_bohemian.gif",
+        "url":"https://zh.y8.com/games/princess_team_bohemian","desc":"princess_team_bohemian"
+      },
+      {
+        "id":4,"name":"happy_halloween_princess_card_designer","img":"https://2345games.top/publicRes/games//Users/caiyuhao/Downloads/happy_halloween_princess_card_designer.gif",
+        "url":"https://zh.y8.com/games/happy_halloween_princess_card_designer","desc":"happy_halloween_princess_card_designer"
+      },
+      {
+        "id":5,"name":"princess_designer","img":"https://2345games.top/publicRes/games//Users/caiyuhao/Downloads/princess_designer.gif",
+        "url":"https://zh.y8.com/games/princess_designer","desc":"princess_designer"
+      } 
+   ],
+   "others":[
+    {"id":1,"name":"Zoom Earth","img":"https://2345games.top/publicRes/games/zoom-earth.jpg","url":"https://zoom.earch","desc":"View weather maps and track hurricanes in real-time."},
+    {"id":2,"name":"Webcam Toy","img":"https://2345games.top/publicRes/games/webcam-toy.jpg","url":"https://webcamtoy.com","desc":"Take selfies with over 80 fun effects."},
+    {"id":3,"name":"Strobe Illusion","img":"https://2345games.top/publicRes/games/strobe-illusion.png","url":"https://strobe.cool","desc":"You will hallucinate! Watch this mind-melting optical illusion.."},
+    {"id":4,"name":"Snake","img":"https://2345games.top/publicRes/games/snake.png","url":"https://playsnake.org","desc":"Play the classic retro mobile phone game."}
+    ,{"id":5,"name":"LineGame","img":"https://2345games.top/publicRes/games/line_game.jpg","url":"https://lines.frvr.com/","desc":"lineGame."}
+
+   ]
+  }}
+ 
+  
