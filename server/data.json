@@ -2,23 +2,23 @@
   "data":{
    "girls":[
       {
-        "id":1,"name":"grandma_recipe_ramen","img":"https://2345games.top/publicRes/games/grandma_recipe_ramen.jpg",
+        "id":1,"name":"grandma_recipe_ramen","img":"https://2345games.top/publicRes/games/grandma_recipe_ramen.png",
         "url":"https://zh.y8.com/games/grandma_recipe_ramen","desc":"grandma"
       },
       {
-        "id":2,"name":"rabbit_jigsaw_puzzles","img":"https://2345games.top/publicRes/games/rabbit_jigsaw_puzzles.gif",
+        "id":2,"name":"rabbit_jigsaw_puzzles","img":"https://2345games.top/publicRes/games/rabbit_jigsaw_puzzles.png",
         "url":"https://zh.y8.com/games/rabbit_jigsaw_puzzles","desc":"rabbit_jigsaw_puzzles"
       },
       {
-        "id":3,"name":"princess_team_bohemian","img":"https://2345games.top/publicRes/games/princess_team_bohemian.gif",
+        "id":3,"name":"princess_team_bohemian","img":"https://2345games.top/publicRes/games/princess_team_bohemian.png",
         "url":"https://zh.y8.com/games/princess_team_bohemian","desc":"princess_team_bohemian"
       },
       {
-        "id":4,"name":"happy_halloween_princess_card_designer","img":"https://2345games.top/publicRes/games//Users/caiyuhao/Downloads/happy_halloween_princess_card_designer.gif",
+        "id":4,"name":"happy_halloween_princess_card_designer","img":"https://2345games.top/publicRes/games//Users/caiyuhao/Downloads/happy_halloween_princess_card_designer.png",
         "url":"https://zh.y8.com/games/happy_halloween_princess_card_designer","desc":"happy_halloween_princess_card_designer"
       },
       {
-        "id":5,"name":"princess_designer","img":"https://2345games.top/publicRes/games//Users/caiyuhao/Downloads/princess_designer.gif",
+        "id":5,"name":"princess_designer","img":"https://2345games.top/publicRes/games//Users/caiyuhao/Downloads/princess_designer.png",
         "url":"https://zh.y8.com/games/princess_designer","desc":"princess_designer"
       } 
    ],
