@@ -28,6 +28,7 @@
     {"id":3,"name":"Strobe Illusion","img":"https://2345games.top/publicRes/games/strobe-illusion.png","url":"https://strobe.cool","desc":"You will hallucinate! Watch this mind-melting optical illusion.."},
     {"id":4,"name":"Snake","img":"https://2345games.top/publicRes/games/snake.png","url":"https://playsnake.org","desc":"Play the classic retro mobile phone game."}
     ,{"id":5,"name":"LineGame","img":"https://2345games.top/publicRes/games/line_game.jpg","url":"https://lines.frvr.com/","desc":"lineGame."}
+    ,{"id":6,"name":"2048","img":"https://2345games.top/publicRes/games/2048.png","url":"https://2345games.top/publicRes/games/2048/index.html","desc":"2048."}
 
    ]
   }}
